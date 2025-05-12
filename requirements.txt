@@ -2,4 +2,3 @@ flask
 fpdf
 flask_cors
 pyjwt
-sqlite3
